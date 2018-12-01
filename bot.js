@@ -28,7 +28,7 @@ client.on('ready', () => {
   console.log('')
   console.log('')
 });
-var prefix = "!"
+var = prefix "!"
   const welcome = JSON.parse(fs.readFileSync('./welcomer.json' , 'utf8'));
  
 client.on('message', message => {
