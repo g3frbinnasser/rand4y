@@ -7,7 +7,7 @@ client.on('ready', () => {
    
   console.log('')
   console.log('')
-  console.user.setActivity("#help | #invite",{type: 'WATCHING'})
+
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
   console.log(`[Start] ${new Date()}`);
   console.log('╚[═════════════════════════════════════════════════════════════════]╝')
