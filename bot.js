@@ -129,7 +129,7 @@ client.on("guildMemberAdd", member => {
     let memberavatar = member.user.avatarURL
       if (!welcomer) return;
       if(welcomer) {
-         if.locale('ar-ly');
+         welcome.locale('ar-ly');
          var h = member.user;
         let heroo = new Discord.RichEmbed()
         .setColor('RANDOM')
